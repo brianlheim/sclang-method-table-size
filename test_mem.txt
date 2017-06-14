@@ -1,0 +1,152 @@
+
+One class, many methods: random access
+
+Methods  Memory_used
+2        53M+
+4        53M+
+8        53M+
+16       54M+
+32       53M+
+64       53M+
+128      53M+
+256      53M+
+512      54M+
+1024     54M+
+2048     54M+
+4096     56M+
+8192     60M+
+16384    69M+
+32768    90M+
+65536    133M+
+
+One class, many methods: ordinary methods
+
+Methods  Memory_used
+2        53M+
+4        53M+
+8        53M+
+16       54M+
+32       53M+
+64       53M+
+128      53M+
+256      53M+
+512      54M+
+1024     54M+
+2048     55M+
+4096     56M+
+8192     60M+
+16384    69M+
+32768    90M+
+65536    133M+
+
+Many classes, one method: random access
+
+Classes  Memory_used
+2        54M+
+4        53M+
+8        54M+
+16       54M+
+32       54M+
+64       54M+
+128      55M+
+256      57M+
+512      60M+
+1024     68M+
+2048     81M+
+4096     109M+
+
+Many classes, one method: ordinary methods
+
+Classes  Memory_used
+2        53M+
+4        53M+
+8        54M+
+16       54M+
+32       54M+
+64       54M+
+128      55M+
+256      57M+
+512      60M+
+1024     67M+
+2048     80M+
+4096     108M+
+
+Many classes, many methods: random access
+
+Classes_and_methods  Memory_used
+2                    54M+
+4                    54M+
+8                    53M+
+16                   54M+
+32                   55M+
+64                   57M+
+128                  66M+
+256                  99M+
+
+Many classes, many methods: ordinary methods
+
+Classes_and_methods  Memory_used
+2                    53M+
+4                    53M+
+8                    53M+
+16                   54M+
+32                   55M+
+64                   57M+
+128                  65M+
+256                  98M+
+
+Array accesses, repeatedly accessing index 0
+
+Array_size  Memory_used
+2           53M+
+4           53M+
+8           53M+
+16          53M+
+32          53M+
+64          53M+
+128         53M+
+256         53M+
+512         53M+
+1024        53M+
+2048        53M+
+4096        53M+
+8192        53M+
+16384       53M+
+32768       54M+
+65536       54M+
+131072      55M+
+262144      57M+
+524288      61M+
+1048576     69M+
+2097152     85M+
+4194304     117M+
+8388608     181M+
+16777216    309M+
+
+Array accesses, random accesses
+
+Array_size  Memory_used
+2           53M+
+4           53M+
+8           53M+
+16          53M+
+32          53M+
+64          53M+
+128         53M+
+256         53M+
+512         53M+
+1024        53M+
+2048        53M+
+4096        53M+
+8192        53M+
+16384       53M+
+32768       54M+
+65536       54M+
+131072      55M+
+262144      57M+
+524288      61M+
+1048576     69M+
+2097152     85M+
+4194304     117M+
+8388608     181M+
+16777216    309M+
